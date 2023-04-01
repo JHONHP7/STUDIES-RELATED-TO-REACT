@@ -1,0 +1,5 @@
+código para criar projeto react com vite (npm create vite@latest)
+entre na página, 	npm install ou npm i
+logo depois		npm run dev
+			
+			
